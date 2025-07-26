@@ -34,7 +34,7 @@ public class TakesScreenshotDemo {
 		
 		driver.close();
 		
-		//upload a file in selenium --------
+		//upload a file in selenium ----------
 		
 		//driver.findElement(By.id("input element")).sendKeys("path".jpg);
 		
