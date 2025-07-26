@@ -36,6 +36,7 @@ public class TakesScreenshotDemo {
 		
 		//upload a file in selenium ----------
 		// changes in main
+		// changes main again
 		
 		//driver.findElement(By.id("input element")).sendKeys("path".jpg);
 		
